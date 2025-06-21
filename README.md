@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@2add6837-d7d5-44a2-a979-3b2fdbee2d01/236a3605-bc68-46ec-9be1-33349b7f8743.svg"></embed></figure>
+
 <!--
 **Azuronis/Azuronis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
