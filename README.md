@@ -44,13 +44,13 @@ Welcome to my page! </br> I'm a developer passionate about building amazing thin
   </thead>
   <tbody>
     <tr>
-      <td><a href="#"><b>Asyncio-IRC</b></a></td>
+      <td><a href="https://github.com/Azuronis/Hierarchical-Pathfinding-AStar"><b>Asyncio-IRC</b></a></td>
       <td> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Azuronis/Asyncio-IRC?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Azuronis/Asyncio-IRC?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="#"><b>Hierarchical-Pathfinding-AStar</b></a></td>
+      <td><a href="https://github.com/Azuronis/Asyncio-IRC"><b>Hierarchical-Pathfinding-AStar</b></a></td>
       <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Azuronis/Hierarchical-Pathfinding-AStar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Azuronis/Hierarchical-Pathfinding-AStar?style=flat-square&labelColor=343b41"/></td>
