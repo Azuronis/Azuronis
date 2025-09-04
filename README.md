@@ -30,6 +30,48 @@ I'm a developer passionate about building amazing things with code.
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Azuronis/Asyncio-IRC">Asyncio-IRC</a></h3>
+      <p>
+        An asynchronous IRC (Internet Relay Chat) client/server built with Python’s <b>asyncio</b>.
+        Includes support for message parsing, user management, and MySQL integration.
+      </p>
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://github.com/user-attachments/assets/83aba896-724c-44e7-a4fb-fd8dcb019143"
+           alt="Asyncio-IRC Screenshot" width="300">
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Azuronis/Hierarchical-Pathfinding-AStar">Hierarchical-Pathfinding-AStar</a></h3>
+      <p>
+        A Python implementation of <b>Hierarchical Pathfinding A*</b> (HPA*) with support for
+        chunk-level abstractions and multi-layer navigation. Optimized for large-scale maps and
+        game AI simulations.
+      </p>
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://github.com/user-attachments/assets/58c929e0-9bd7-46fb-94ff-934faed23d6f"
+           alt="Hierarchical Pathfinding Screenshot" width="300">
+    </td>
+  </tr>
+</table>
+
+
+---
 
 ## 📈 GitHub Stats
 
@@ -42,9 +84,9 @@ I'm a developer passionate about building amazing things with code.
 
 ## 💼 What I'm Working On
 
-- 🚧 Building projects with **React** and **Python**
-- 📚 Diving deeper into **Rust** and **System Programming**
-- 🤝 Looking to collaborate on **Open Source Projects**
+- 🚧 Building projects with **React** and **Python**  
+- 📚 Diving deeper into **Rust** and **System Programming**  
+- 🤝 Looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Web Development**, **Backend Systems**, or **Game Development**
 
 ---
