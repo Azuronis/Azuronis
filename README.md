@@ -1,5 +1,8 @@
+# Welcome 👋
 
-Welcome to my page! </br> I'm a developer passionate about building amazing things with code.
+I'm a developer passionate about building amazing things with code.
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -27,36 +30,6 @@ Welcome to my page! </br> I'm a developer passionate about building amazing thin
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## 📊 Coding Activity
-
-![Coding Activity](https://wakatime.com/share/@2add6837-d7d5-44a2-a979-3b2fdbee2d01/c5107142-4385-43a9-91f8-31f22ea976d4.svg)
-
-## 🚀 Featured Projects
-
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>Tech Stack</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Azuronis/Hierarchical-Pathfinding-AStar"><b>Asyncio-IRC</b></a></td>
-      <td> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Azuronis/Asyncio-IRC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Azuronis/Asyncio-IRC?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Azuronis/Asyncio-IRC"><b>Hierarchical-Pathfinding-AStar</b></a></td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Azuronis/Hierarchical-Pathfinding-AStar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Azuronis/Hierarchical-Pathfinding-AStar?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 ## 📈 GitHub Stats
 
@@ -65,12 +38,16 @@ Welcome to my page! </br> I'm a developer passionate about building amazing thin
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuronis&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
+---
+
 ## 💼 What I'm Working On
 
-- Currently working on exciting projects with **React** and **Python**
-- Learning more about **Rust** and **System Programming**
-- Looking to collaborate on **Open Source Projects**
-- Ask me about **Web Development**, **Backend Systems**, or **Game Development**
+- 🚧 Building projects with **React** and **Python**
+- 📚 Diving deeper into **Rust** and **System Programming**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development**, **Backend Systems**, or **Game Development**
+
+---
 
 ## 📫 Connect With Me
 
@@ -78,9 +55,8 @@ Welcome to my page! </br> I'm a developer passionate about building amazing thin
   <a href="mailto:blazingriver449@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://discord.com/users/404808121505153035" target="_blank">
-      <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
