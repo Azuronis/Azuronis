@@ -65,23 +65,14 @@ I'm a developer passionate about building amazing things with code.
 </table>
 
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azuronis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuronis&layout=compact&langs_count=8&theme=dark"/>
-</div>
 
 ---
 
 ## 💼 What I'm Working On
-
+- Interested in simulating real-world events.
 - 🚧 Building projects with **React** and **Python**  
 - 📚 Diving deeper into **Rust** and **System Programming**  
 - 🤝 Looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Web Development**, **Backend Systems**, or **Game Development**
 
 ---
 
