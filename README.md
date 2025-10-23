@@ -26,7 +26,7 @@ I'm a developer passionate about building amazing things with code.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 
 <table>
@@ -68,7 +68,7 @@ I'm a developer passionate about building amazing things with code.
 
 ---
 
-## 💼 What I'm Working On
+## What I'm Working On
 - Interested in simulating real-world events.
 - 🚧 Building projects with **React** and **Python**  
 - 📚 Diving deeper into **Rust** and **System Programming**  
@@ -76,7 +76,7 @@ I'm a developer passionate about building amazing things with code.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:blazingriver449@gmail.com" target="_blank">
