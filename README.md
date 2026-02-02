@@ -65,6 +65,21 @@ I'm a developer passionate about building amazing things with code.
   </tr>
 </table>
 
+---
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Azuronis/labs">Miscellaneous Projects</a></h3>
+      <p>
+        A repository of all my miscellaneous projects. Ranging from algorithms, sand simulations, to web development. 
+      </p>
+    </td>
+    <td align="right" valign="middle">
+      <img width="200" alt="image" src="https://github.com/user-attachments/assets/b3fd8fd9-e417-4a51-93ac-122e0941cce1" />
+    </td>
+  </tr>
+</table>
 
 
 ---
