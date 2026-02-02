@@ -32,7 +32,8 @@ I'm a developer passionate about building amazing things with code.
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/Azuronis/Asyncio-IRC">Asyncio-IRC</a></h3>
+      <h3><a href="https://github.com/Azuronis/Asyncio-IRC">Asyncio-TCP-Chat
+</a></h3>
       <p>
         An asynchronous IRC (Internet Relay Chat) client/server built with Python’s <b>asyncio</b>.
         Includes support for message parsing, user management, and MySQL integration.
