@@ -1,6 +1,6 @@
-# Welcome 👋
+# Hello!
 
-I'm a developer passionate about building amazing things with code.
+I'm a developer and student passionate about building random things with code.
 
 ---
 
